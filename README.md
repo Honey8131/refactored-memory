@@ -1,6 +1,7 @@
 # HTML CSS Git Challenge: Code Refactor
 
 **Deployed Application**: https://honey8131.github.io/refactored-memory/
+**Github Repository** : https://github.com/Honey8131/refactored-memory
 
 
 - Rewrote code with semantic HTML
