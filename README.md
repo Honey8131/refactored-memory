@@ -7,4 +7,4 @@
 - Placed unordered list items in horizontal display
 - Added alt text to all image links
 
-![Horiseon_screenshot](./assets/images/Horiseon_screenshot.png)
+![Horiseon_screenshot](./assets/images/screenshot.png)
